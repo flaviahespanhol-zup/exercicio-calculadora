@@ -1,4 +1,4 @@
-public class Main {
+public class Calculadora {
     public static void main(String[] args) {
 
         // testando o metodo calculadora(fazendo a múltiplicação 4 * 6):
